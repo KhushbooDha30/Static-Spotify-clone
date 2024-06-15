@@ -1,0 +1,36 @@
+.outer{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+    align-items: center;
+}
+#one{
+    height:40px;
+    width: 30px;
+    background-color: black;
+    border-radius: 18px 18px 18px 18px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+
+#two{
+    height:40px;
+    width: 30px;
+    background-color:black;
+    border-radius: 19px 18px 19px 16px;
+    position: absolute;
+    top: 50px;
+    left: 140px;
+}
+#mouth{
+    height:50px;
+    width: 100px;
+    background-color:rgb(217, 33, 33); 
+    position: absolute;
+    top: 130px;
+    left: 60px;
+    border-radius:  0 0 50% 50%;
+}
